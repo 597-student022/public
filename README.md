@@ -1,2 +1,2 @@
-# personal_dev_11420_jeon_hyogeon
+# Purpose
 For personal project in Java Class
