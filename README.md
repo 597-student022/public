@@ -1,2 +1,2 @@
 # Purpose
-For personal project in Java Class
+Star押して下さい
